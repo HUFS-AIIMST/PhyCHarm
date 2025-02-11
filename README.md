@@ -1,5 +1,6 @@
 # PhyCHarm
 PhyCHarm is an MR physics-based harmonization framework for multisite and multiscanner MR dataset.
+https://doi.org/10.1101/2025.02.07.25321867
 
   
 ## Environment setup
